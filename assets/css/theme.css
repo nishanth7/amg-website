@@ -2074,3 +2074,6 @@ a.text-dark:hover, a.text-dark:focus {
   background: #243d8199;
   color: white !important;
 }
+.ourServicesDiv:hover p {
+  color: white !important;
+}
